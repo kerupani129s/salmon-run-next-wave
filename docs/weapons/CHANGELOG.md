@@ -24,7 +24,21 @@
 
 ## [5.0.1] - 2023-09-15
 
+- なし
+
 ## [5.0.0] - 2023-08-31
+
+### メイン
+
+- パラシェルター シェルター復活時間 6.5s から 5.5s へ変更 (対戦と共通)
+- スパイガジェット シェルター復活時間 4.5s から 4.0s へ変更 (対戦と共通)
+- LACT-450 拡散角度 変更 (対戦と共通)
+
+### スペシャル
+
+- メガホンレーザー5.1ch
+	- ロックオン 仕様変更 (対戦と共通)
+	- ロックオン 表示 変更 (対戦と共通)
 
 [5.2.0]: https://www.nintendo.co.jp/support/switch/software_support/av5ja/520.html
 [5.1.0]: https://www.nintendo.co.jp/support/switch/software_support/av5ja/510.html
