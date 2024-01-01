@@ -10,6 +10,10 @@
 
 ---
 
+## [6.0.2] - 2023-12-22
+
+- なし
+
 ## [6.0.1] - 2023-12-08
 
 - なし
@@ -32,6 +36,7 @@
 - テイオウイカ 追加
 - ウルトラチャクチ 追加 (対戦と共通)
 
+[6.0.2]: https://www.nintendo.co.jp/support/switch/software_support/av5ja/602.html
 [6.0.1]: https://www.nintendo.co.jp/support/switch/software_support/av5ja/601.html
 [6.0.0]: https://www.nintendo.co.jp/support/switch/software_support/av5ja/600.html
 
