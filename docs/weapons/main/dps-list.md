@@ -8,6 +8,7 @@
 - DPS の値は小数第 2 位を四捨五入しています。
 - 計算方法は「[サーモンラン NEXT WAVE メインウェポン DPS 計算式](dps-calculation.md)」を参照。
 - ブキの変更履歴は「[サーモンラン NEXT WAVE ブキ Changelog](../CHANGELOG.md)」を参照。
+- メインウェポンのダメージの値は「[サーモンラン NEXT WAVE メインウェポン ダメージ 一覧](damage-list.md)」を参照。
 
 ## シューター
 
