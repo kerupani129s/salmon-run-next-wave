@@ -1,5 +1,6 @@
 # サーモンラン NEXT WAVE の情報
 
+- [サーモンラン NEXT WAVE 対シャケ 攻撃方法 一覧](docs/weapons/list.md)
 - [サーモンラン NEXT WAVE ブキ Changelog](docs/weapons/CHANGELOG.md)
 - メインウェポン
 	- [サーモンラン NEXT WAVE メインウェポン DPS 一覧](docs/weapons/main/dps-list.md)
