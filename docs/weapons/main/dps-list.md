@@ -10,7 +10,7 @@
 - 計算方法は「[サーモンラン NEXT WAVE メインウェポン DPS 計算式](dps-calculation.md)」を参照。
 - ブキの変更履歴は「[サーモンラン NEXT WAVE ブキ Changelog](../CHANGELOG.md)」を参照。
 - メインウェポンのダメージの値は「[サーモンラン NEXT WAVE メインウェポン ダメージ 一覧](damage-list.md)」を参照。
-- メインウェポン以外の攻撃方法は「[サーモンラン NEXT WAVE 対シャケ 攻撃方法 一覧](../list.md)」を参照。
+- メインウェポン以外の攻撃手段は「[サーモンラン NEXT WAVE 対シャケ 攻撃手段 一覧](../list.md)」を参照。
 
 ## シューター
 
