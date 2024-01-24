@@ -6,6 +6,7 @@
 - メインウェポンは除く。
 - DPS の値は小数第 2 位を四捨五入しています。
 - DPF の値は小数第 3 位を四捨五入しています。
+- シャケ等の体力の値は「[サーモンラン NEXT WAVE シャケ等 体力 一覧](../hp-list.md)」を参照。
 - ブキの変更履歴は「[サーモンラン NEXT WAVE ブキ Changelog](CHANGELOG.md)」を参照。
 - メインウェポンのダメージの値は「[サーモンラン NEXT WAVE メインウェポン ダメージ 一覧](main/damage-list.md)」を参照。
 - メインウェポンの DPS の値は「[サーモンラン NEXT WAVE メインウェポン DPS 一覧](main/dps-list.md)」を参照。
