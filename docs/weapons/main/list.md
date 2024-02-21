@@ -2,11 +2,16 @@
 
 注意:
 
-- バージョン 6.1.0 の内容です。
-- メインウェポンの総数 66 つ。
+- バージョン 7.0.0 の内容です。
+- メインウェポンの総数 68 つ。
 - ブキの変更履歴は「[サーモンラン NEXT WAVE ブキ Changelog](../CHANGELOG.md)」を参照。
 - メインウェポンの DPS の値は「[サーモンラン NEXT WAVE メインウェポン DPS 一覧](dps-list.md)」を参照。
 - メインウェポンのダメージの値は「[サーモンラン NEXT WAVE メインウェポン ダメージ 一覧](damage-list.md)」を参照。
+
+## [7.0.0] - 2024-02-22
+
+- 24式張替傘・甲
+- ガエンFF
 
 ## [6.0.0] - 2023-11-30
 
@@ -97,6 +102,7 @@
 - クマサン印のストリンガー
 	- 第 15 回 2022-10-02 以降
 
+[7.0.0]: https://www.nintendo.co.jp/support/switch/software_support/av5ja/700.html
 [6.0.0]: https://www.nintendo.co.jp/support/switch/software_support/av5ja/600.html
 [5.0.0]: https://www.nintendo.co.jp/support/switch/software_support/av5ja/500.html
 [4.0.0]: https://www.nintendo.co.jp/support/switch/software_support/av5ja/400.html
