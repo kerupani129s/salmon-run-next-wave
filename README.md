@@ -9,6 +9,8 @@
 		- [サーモンラン NEXT WAVE メインウェポン DPS 計算式](docs/weapons/main/dps-calculation.md)
 		- [サーモンラン NEXT WAVE メインウェポン ダメージ 一覧](docs/weapons/main/damage-list.md)
 		- [サーモンラン NEXT WAVE メインウェポン 一覧](docs/weapons/main/list.md)
+- シャケ
+	- [サーモンラン NEXT WAVE シャケ 攻撃力 一覧](docs/salmonids/list.md)
 
 ## ライセンス
 

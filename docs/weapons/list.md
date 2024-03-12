@@ -10,6 +10,7 @@
 - ブキの変更履歴は「[サーモンラン NEXT WAVE ブキ Changelog](CHANGELOG.md)」を参照。
 - メインウェポンのダメージの値は「[サーモンラン NEXT WAVE メインウェポン ダメージ 一覧](main/damage-list.md)」を参照。
 - メインウェポンの DPS の値は「[サーモンラン NEXT WAVE メインウェポン DPS 一覧](main/dps-list.md)」を参照。
+- シャケの攻撃力は「[サーモンラン NEXT WAVE シャケ 攻撃力 一覧](../salmonids/list.md)」を参照。
 
 ## スペシャルウェポン
 
