@@ -3,6 +3,7 @@
 注意:
 
 - 体力の値が 2200 以下のもののみ記載。
+	- ハコビヤの体力はキケン度によるため除く。
 - メインウェポン以外の攻撃手段は「[サーモンラン NEXT WAVE 対シャケ 攻撃手段 一覧](weapons/list.md)」を参照。
 - メインウェポンのダメージの値は「[サーモンラン NEXT WAVE メインウェポン ダメージ 一覧](weapons/main/damage-list.md)」を参照。
 - メインウェポンの DPS の値は「[サーモンラン NEXT WAVE メインウェポン DPS 一覧](weapons/main/dps-list.md)」を参照。
