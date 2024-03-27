@@ -14,6 +14,10 @@
 
 ---
 
+## [7.1.0] - 2024-03-22
+
+- なし
+
 ## [7.0.0] - 2024-02-22
 
 ### メインウェポン
@@ -30,6 +34,7 @@
 	- ダメージ 400 から 500 へ変更
 	- ダメージ 半径 変更
 
+[7.1.0]: https://www.nintendo.co.jp/support/switch/software_support/av5ja/710.html
 [7.0.0]: https://www.nintendo.co.jp/support/switch/software_support/av5ja/700.html
 
 ---
