@@ -12,6 +12,8 @@
 		- [サーモンラン NEXT WAVE メインウェポン 一覧](docs/weapons/main/list.md)
 - シャケ
 	- [サーモンラン NEXT WAVE シャケ 攻撃力 一覧](docs/salmonids/list.md)
+- Nintendo Switch
+	- [Nintendo Switch インターネット接続](docs/nintendo-switch/an-Internet-connection.md)
 
 ## ライセンス
 
