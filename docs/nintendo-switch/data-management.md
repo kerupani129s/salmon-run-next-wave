@@ -22,7 +22,9 @@ microSD カードの規格は以下のことを確認:
 	- 表記: A2
 	- 最小転送速度
 		- ランダムリード: 4000IOPS
+			- 4KB × 4000 / 1s = 15.625MB/s
 		- ランダムライト: 2000IOPS
+			- 4KB × 2000 / 1s = 7.8125MB/s
 		- シーケンシャル: 10MB/s
 
 参考:
@@ -32,6 +34,7 @@ microSD カードの規格は以下のことを確認:
 - [バスインターフェーススピード | SD Association](https://www.sdcard.org/ja/developers-2/sd-standard-overview/bus-speed-default-speed-high-speed-uhs-sd-express/)
 - [スピードクラス規格/動画撮影のための規格 | SD Association](https://www.sdcard.org/ja/consumers-2/about-sd-memory-card-choices/speed-class-standards-for-video-recording/)
 - [スマートフォンアプリ実行用 アプリケーションパフォーマンスクラス | SD Association](https://www.sdcard.org/ja/consumers-2/about-sd-memory-card-choices/application-performance-class-for-running-smartphone-apps/)
+- [アプリケーションパフォーマンスクラス | SD Association](https://www.sdcard.org/ja/developers-2/sd-standard-overview/application-performance-class/)
 
 ## データの保存先
 
