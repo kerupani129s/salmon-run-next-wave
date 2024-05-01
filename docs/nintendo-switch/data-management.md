@@ -2,6 +2,8 @@
 
 ## microSD カード
 
+### 規格
+
 microSD カードの規格は以下のことを確認:
 
 - UHS-I
@@ -27,13 +29,6 @@ microSD カードの規格は以下のことを確認:
 			- 4KB × 2000 / 1s = 7.8125MB/s
 		- シーケンシャル: 10MB/s
 
-フォーマットは以下の通り:
-
-- ファイルシステム: exFAT
-- アロケーションユニットサイズ: 128KB
-
-古い情報で「Nintendo Switch でファイルシステムに exFAT を用いるとデータが壊れる」というものがありますが、現在はおそらく改善されています。
-
 参考:
 
 - [microSDカードについて｜Nintendo Switch サポート情報｜Nintendo](https://www.nintendo.co.jp/support/switch/data_management/microsdcard/index.html)
@@ -42,6 +37,26 @@ microSD カードの規格は以下のことを確認:
 - [スピードクラス規格/動画撮影のための規格 | SD Association](https://www.sdcard.org/ja/consumers-2/about-sd-memory-card-choices/speed-class-standards-for-video-recording/)
 - [スマートフォンアプリ実行用 アプリケーションパフォーマンスクラス | SD Association](https://www.sdcard.org/ja/consumers-2/about-sd-memory-card-choices/application-performance-class-for-running-smartphone-apps/)
 - [アプリケーションパフォーマンスクラス | SD Association](https://www.sdcard.org/ja/developers-2/sd-standard-overview/application-performance-class/)
+
+### フォーマット
+
+フォーマットは以下の通り:
+
+- ファイルシステム: exFAT
+- アロケーションユニットサイズ: 128KB
+
+古い情報で「Nintendo Switch でファイルシステムに exFAT を用いるとデータが壊れる」というものがありますが、現在はおそらく改善されています。
+
+### 交換
+
+microSD カードを交換するときは以下のことに注意:
+
+- データは手動で移動するか、または再ダウンロードが必要
+- 複数の Nintendo Switch や、microSD カード交換前と交換後の Nintendo Switch のデータをまとめることは不可
+- microSD カード交換前に Nintendo Switch 本体の電源を OFF にする
+	- [【Switch】本体の電源をOFFにする方法は？](https://support-jp.nintendo.com/app/answers/detail/a_id/33801)
+- [microSDカードのデータコピー｜Nintendo Switch サポート情報｜Nintendo](https://www.nintendo.co.jp/support/switch/data_management/copy/index.html)
+- [【Switch】撮影した画面写真や動画を、パソコンやスマートフォン、別のNintendo Switchに移したい。](https://support-jp.nintendo.com/app/answers/detail/a_id/34865)
 
 ## データの保存先
 
