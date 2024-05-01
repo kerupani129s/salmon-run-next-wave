@@ -27,6 +27,13 @@ microSD カードの規格は以下のことを確認:
 			- 4KB × 2000 / 1s = 7.8125MB/s
 		- シーケンシャル: 10MB/s
 
+フォーマットは以下の通り:
+
+- ファイルシステム: exFAT
+- アロケーションユニットサイズ: 128KB
+
+古い情報で「Nintendo Switch でファイルシステムに exFAT を用いるとデータが壊れる」というものがありますが、現在はおそらく改善されています。
+
 参考:
 
 - [microSDカードについて｜Nintendo Switch サポート情報｜Nintendo](https://www.nintendo.co.jp/support/switch/data_management/microsdcard/index.html)
