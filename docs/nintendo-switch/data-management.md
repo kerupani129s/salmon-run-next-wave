@@ -99,6 +99,18 @@ microSD カードに保存するデータは以下のことを確認:
 
 ちなみに、ソフトのデータと画面写真および動画の保存先を分けることで、ゲームのプレイ中にゲーム画面の動画を撮影した場合の動作が安定することがあります。
 
+### 保存先の変更および移動
+
+- ソフトのデータ
+	- ダウンロード時の保存先は microSD カード優先
+		- [【Switch】ニンテンドーeショップでダウンロードしたデータはどこに保存されますか？](https://support-jp.nintendo.com/app/answers/detail/a_id/34025/p/8664)
+	- ダウンロード後に本体保存メモリーへ移動可能
+		- 一部の更新データは移動不可
+- 画面写真および動画
+	- 保存先を変更可能
+	- 本体保存メモリーへコピー可能
+		- [画面写真/動画の管理｜Nintendo Switch サポート情報｜Nintendo](https://www.nintendo.co.jp/support/switch/data_management/screenshot_movie/index.html)
+
 参考:
 
 - [データの管理｜Nintendo Switch サポート情報｜Nintendo](https://www.nintendo.co.jp/support/switch/data_management/index.html)
