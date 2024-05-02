@@ -58,9 +58,11 @@ microSD カードを交換するときは以下のことに注意:
 - [microSDカードのデータコピー｜Nintendo Switch サポート情報｜Nintendo](https://www.nintendo.co.jp/support/switch/data_management/copy/index.html)
 - [【Switch】撮影した画面写真や動画を、パソコンやスマートフォン、別のNintendo Switchに移したい。](https://support-jp.nintendo.com/app/answers/detail/a_id/34865)
 
-## データの保存先
+## データ
 
-データが保存可能な保存先は以下の通り:
+### 保存可能な保存先
+
+データを保存可能な保存先は以下の通り:
 
 - セーブデータ
 	- 本体保存メモリー
@@ -74,13 +76,21 @@ microSD カードを交換するときは以下のことに注意:
 	- 本体保存メモリー
 	- microSD カード
 
+参考:
+
+- [データの管理｜Nintendo Switch サポート情報｜Nintendo](https://www.nintendo.co.jp/support/switch/data_management/index.html)
+
+### 保存先
+
 データの保存先は以下のことを確認:
 
 - ソフトのデータ: 本体保存メモリー
-	- パッケージ版ソフトのゲームカードはデータ読み込みが遅いため、可能であればダウンロード版ソフトにする。
-	- データ読み書きは本体保存メモリーの方が microSD カードより速いため、可能であれば本体保存メモリーにソフトのデータを保存する。
+	- パッケージ版ソフトのゲームカードはデータ読み込みが遅いため、ダウンロード版ソフトを推奨
+	- データ読み書きは本体保存メモリーの方が microSD カードより速いため、本体保存メモリーを推奨
 - 画面写真および動画: microSD カード
-	- 画面写真および動画は容量とは別に保存数の上限があるため、microSD カードに保存する。
+	- 画面写真および動画は容量とは別に保存数の上限があるため、microSD カードを推奨
+		- [【Switch】アルバム（画面写真、動画）の保存数に上限はありますか？](https://support-jp.nintendo.com/app/answers/detail/a_id/37286/p/8664)
+		- [【Switch】画面写真や動画が撮影できません。キャプチャーボタンを押しても反応がありません。](https://support-jp.nintendo.com/app/answers/detail/a_id/33861)
 
 microSD カードに保存するデータは以下のことを確認:
 
@@ -93,5 +103,3 @@ microSD カードに保存するデータは以下のことを確認:
 
 - [データの管理｜Nintendo Switch サポート情報｜Nintendo](https://www.nintendo.co.jp/support/switch/data_management/index.html)
 - [【Switch】本体保存メモリーに保存されているデータを、microSDカードに移動することはできますか？](https://support-jp.nintendo.com/app/answers/detail/a_id/33844/p/8664)
-- [【Switch】アルバム（画面写真、動画）の保存数に上限はありますか？](https://support-jp.nintendo.com/app/answers/detail/a_id/37286/p/8664)
-- [【Switch】画面写真や動画が撮影できません。キャプチャーボタンを押しても反応がありません。](https://support-jp.nintendo.com/app/answers/detail/a_id/33861)
