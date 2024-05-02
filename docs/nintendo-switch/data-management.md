@@ -6,6 +6,11 @@
 
 microSD カードの規格は以下のことを確認:
 
+- 容量帯
+	- microSDHC 4GB–32GB
+	- microSDXC 64GB–2TB
+	- 無印の microSD は UHS-I 不対応
+	- Nintendo Switch は microSDUC 不対応
 - UHS-I
 	- 表記: I
 	- 最大転送速度
@@ -33,6 +38,7 @@ microSD カードの規格は以下のことを確認:
 
 - [microSDカードについて｜Nintendo Switch サポート情報｜Nintendo](https://www.nintendo.co.jp/support/switch/data_management/microsdcard/index.html)
 - [SD メモリカードのロゴと規格について | SD Association](https://www.sdcard.org/ja/consumers-2/about-sd-memory-card-choices/)
+- [容量(SD/SDHC/SDXC/SDUC) | SD Association](https://www.sdcard.org/ja/developers-2/sd-standard-overview/capacity-sd-sdhc-sdxc-sduc/)
 - [バスインターフェーススピード | SD Association](https://www.sdcard.org/ja/developers-2/sd-standard-overview/bus-speed-default-speed-high-speed-uhs-sd-express/)
 - [スピードクラス規格/動画撮影のための規格 | SD Association](https://www.sdcard.org/ja/consumers-2/about-sd-memory-card-choices/speed-class-standards-for-video-recording/)
 - [スマートフォンアプリ実行用 アプリケーションパフォーマンスクラス | SD Association](https://www.sdcard.org/ja/consumers-2/about-sd-memory-card-choices/application-performance-class-for-running-smartphone-apps/)
@@ -42,8 +48,14 @@ microSD カードの規格は以下のことを確認:
 
 フォーマットは以下の通り:
 
-- ファイルシステム: exFAT
-- アロケーションユニットサイズ: 128KB
+- microSDHC の場合
+	- **(要確認)** ファイルシステム: FAT32
+	- **(要確認)** アロケーションユニットサイズ: 32KB
+- microSDXC の場合
+	- ファイルシステム: exFAT
+	- アロケーションユニットサイズ: 128KB
+
+「Nintendo Switch で microSD カードをフォーマットするとファイルシステムが FAT32 になる」という情報がありますが、少なくとも microSDXC では exFAT になります。
 
 古い情報で「Nintendo Switch でファイルシステムに exFAT を用いるとデータが壊れる」というものがありますが、現在はおそらく改善されています。
 
