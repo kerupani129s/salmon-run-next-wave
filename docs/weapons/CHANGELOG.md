@@ -32,8 +32,8 @@
 ### スペシャルウェポン
 
 - **(要確認)** サメライド レール
-	- 塗り 変更
-	- 仕様変更
+	- 塗り 変更 (対戦と共通)
+	- 仕様変更 (対戦と共通)
 
 [8.0.0]: https://www.nintendo.co.jp/support/switch/software_support/av5ja/800.html
 
