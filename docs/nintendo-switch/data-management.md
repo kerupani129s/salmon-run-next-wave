@@ -9,8 +9,8 @@ microSD カードの規格は以下のことを確認:
 - 容量帯
 	- microSDHC 4GB–32GB
 	- microSDXC 64GB–2TB
-	- 無印の microSD は UHS-I 不対応
-	- Nintendo Switch は microSDUC 不対応
+	- 無印の microSD は UHS-I 非対応
+	- Nintendo Switch は microSDUC 非対応
 - UHS-I
 	- 表記: I
 	- 最大転送速度
@@ -33,7 +33,7 @@ microSD カードの規格は以下のことを確認:
 		- ランダムライト: 2000IOPS
 			- 4KB × 2000 / 1s = 7.8125MB/s
 		- シーケンシャル: 10MB/s
-	- **(要確認)** Nintendo Switch は不対応
+	- **(要確認)** Nintendo Switch は非対応
 
 参考:
 
