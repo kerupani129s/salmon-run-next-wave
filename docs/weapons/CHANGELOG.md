@@ -71,8 +71,8 @@
 	- 塗り 変更 (対戦と共通)
 	- 仕様変更 (対戦と共通)
 
-[8.1.0]: https://www.nintendo.co.jp/support/switch/software_support/av5ja/810.html
-[8.0.0]: https://www.nintendo.co.jp/support/switch/software_support/av5ja/800.html
+[8.1.0]: https://support.nintendo.com/jp/switch/software_support/av5ja/810.html
+[8.0.0]: https://support.nintendo.com/jp/switch/software_support/av5ja/800.html
 
 ---
 
@@ -115,9 +115,9 @@
 	- ダメージ 400 から 500 へ変更
 	- ダメージ 半径 変更
 
-[7.2.0]: https://www.nintendo.co.jp/support/switch/software_support/av5ja/720.html
-[7.1.0]: https://www.nintendo.co.jp/support/switch/software_support/av5ja/710.html
-[7.0.0]: https://www.nintendo.co.jp/support/switch/software_support/av5ja/700.html
+[7.2.0]: https://support.nintendo.com/jp/switch/software_support/av5ja/720.html
+[7.1.0]: https://support.nintendo.com/jp/switch/software_support/av5ja/710.html
+[7.0.0]: https://support.nintendo.com/jp/switch/software_support/av5ja/700.html
 
 ---
 
@@ -161,10 +161,10 @@
 - テイオウイカ 追加
 - ウルトラチャクチ 追加 (対戦と共通)
 
-[6.1.0]: https://www.nintendo.co.jp/support/switch/software_support/av5ja/610.html
-[6.0.2]: https://www.nintendo.co.jp/support/switch/software_support/av5ja/602.html
-[6.0.1]: https://www.nintendo.co.jp/support/switch/software_support/av5ja/601.html
-[6.0.0]: https://www.nintendo.co.jp/support/switch/software_support/av5ja/600.html
+[6.1.0]: https://support.nintendo.com/jp/switch/software_support/av5ja/610.html
+[6.0.2]: https://support.nintendo.com/jp/switch/software_support/av5ja/602.html
+[6.0.1]: https://support.nintendo.com/jp/switch/software_support/av5ja/601.html
+[6.0.0]: https://support.nintendo.com/jp/switch/software_support/av5ja/600.html
 
 ---
 
@@ -221,10 +221,10 @@
 	- ロックオン 仕様変更 (対戦と共通)
 	- ロックオン 表示 変更 (対戦と共通)
 
-[5.2.0]: https://www.nintendo.co.jp/support/switch/software_support/av5ja/520.html
-[5.1.0]: https://www.nintendo.co.jp/support/switch/software_support/av5ja/510.html
-[5.0.1]: https://www.nintendo.co.jp/support/switch/software_support/av5ja/501.html
-[5.0.0]: https://www.nintendo.co.jp/support/switch/software_support/av5ja/500.html
+[5.2.0]: https://support.nintendo.com/jp/switch/software_support/av5ja/520.html
+[5.1.0]: https://support.nintendo.com/jp/switch/software_support/av5ja/510.html
+[5.0.1]: https://support.nintendo.com/jp/switch/software_support/av5ja/501.html
+[5.0.0]: https://support.nintendo.com/jp/switch/software_support/av5ja/500.html
 
 ---
 
@@ -338,10 +338,10 @@
 		- 変更前: チャージ時間含む DPS = 3 × 50 × 60F / (12F + 1F + 1F + 13F) = 333.3
 		- 変更後: チャージ時間含む DPS = 3 × 70 × 60F / (12F + 1F + 1F + 13F) = 466.7
 
-[4.1.0]: https://www.nintendo.co.jp/support/switch/software_support/av5ja/410.html
-[4.0.2]: https://www.nintendo.co.jp/support/switch/software_support/av5ja/402.html
-[4.0.1]: https://www.nintendo.co.jp/support/switch/software_support/av5ja/401.html
-[4.0.0]: https://www.nintendo.co.jp/support/switch/software_support/av5ja/400.html
+[4.1.0]: https://support.nintendo.com/jp/switch/software_support/av5ja/410.html
+[4.0.2]: https://support.nintendo.com/jp/switch/software_support/av5ja/402.html
+[4.0.1]: https://support.nintendo.com/jp/switch/software_support/av5ja/401.html
+[4.0.0]: https://support.nintendo.com/jp/switch/software_support/av5ja/400.html
 
 ---
 
@@ -392,10 +392,10 @@
 
 - なし
 
-[3.1.1]: https://www.nintendo.co.jp/support/switch/software_support/av5ja/311.html
-[3.1.0]: https://www.nintendo.co.jp/support/switch/software_support/av5ja/310.html
-[3.0.1]: https://www.nintendo.co.jp/support/switch/software_support/av5ja/301.html
-[3.0.0]: https://www.nintendo.co.jp/support/switch/software_support/av5ja/300.html
+[3.1.1]: https://support.nintendo.com/jp/switch/software_support/av5ja/311.html
+[3.1.0]: https://support.nintendo.com/jp/switch/software_support/av5ja/310.html
+[3.0.1]: https://support.nintendo.com/jp/switch/software_support/av5ja/301.html
+[3.0.0]: https://support.nintendo.com/jp/switch/software_support/av5ja/300.html
 
 ---
 
@@ -466,10 +466,10 @@
 - ジェットパック シャケ ターゲット 仕様変更
 - ナイスダマ シャケ ターゲット 仕様変更
 
-[2.1.1]: https://www.nintendo.co.jp/support/switch/software_support/av5ja/211.html
-[2.1.0]: https://www.nintendo.co.jp/support/switch/software_support/av5ja/210.html
-[2.0.1]: https://www.nintendo.co.jp/support/switch/software_support/av5ja/201.html
-[2.0.0]: https://www.nintendo.co.jp/support/switch/software_support/av5ja/200.html
+[2.1.1]: https://support.nintendo.com/jp/switch/software_support/av5ja/211.html
+[2.1.0]: https://support.nintendo.com/jp/switch/software_support/av5ja/210.html
+[2.0.1]: https://support.nintendo.com/jp/switch/software_support/av5ja/201.html
+[2.0.0]: https://support.nintendo.com/jp/switch/software_support/av5ja/200.html
 
 ---
 
@@ -493,8 +493,8 @@
 
 - なし
 
-[1.2.1]: https://www.nintendo.co.jp/support/switch/software_support/av5ja/121.html
-[1.2.0]: https://www.nintendo.co.jp/support/switch/software_support/av5ja/120.html
-[1.1.2]: https://www.nintendo.co.jp/support/switch/software_support/av5ja/112.html
-[1.1.1]: https://www.nintendo.co.jp/support/switch/software_support/av5ja/111.html
-[1.1.0]: https://www.nintendo.co.jp/support/switch/software_support/av5ja/110.html
+[1.2.1]: https://support.nintendo.com/jp/switch/software_support/av5ja/121.html
+[1.2.0]: https://support.nintendo.com/jp/switch/software_support/av5ja/120.html
+[1.1.2]: https://support.nintendo.com/jp/switch/software_support/av5ja/112.html
+[1.1.1]: https://support.nintendo.com/jp/switch/software_support/av5ja/111.html
+[1.1.0]: https://support.nintendo.com/jp/switch/software_support/av5ja/110.html
