@@ -11,6 +11,7 @@
 		- [サーモンラン NEXT WAVE メインウェポン ダメージ減衰](docs/weapons/main/damage-falloff.md)
 		- [サーモンラン NEXT WAVE メインウェポン チャージキープ](docs/weapons/main/charge-storage.md)
 		- [サーモンラン NEXT WAVE メインウェポン 体力 一覧](docs/weapons/main/hp-list.md)
+		- [サーモンラン NEXT WAVE メインウェポン パージ](docs/weapons/main/launch.md)
 		- [サーモンラン NEXT WAVE メインウェポン 一覧](docs/weapons/main/list.md)
 - シャケ
 	- [サーモンラン NEXT WAVE シャケ 攻撃力 一覧](docs/salmonids/list.md)
