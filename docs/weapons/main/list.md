@@ -8,6 +8,10 @@
 - メインウェポンの DPS の値は「[サーモンラン NEXT WAVE メインウェポン DPS 一覧](dps-list.md)」を参照。
 - メインウェポンのダメージの値は「[サーモンラン NEXT WAVE メインウェポン ダメージ 一覧](damage-list.md)」を参照。
 
+## [9.0.0] - 2024-08-30
+
+- なし
+
 ## [8.0.0] - 2024-05-31
 
 - クマサン印のローラー
@@ -109,6 +113,7 @@
 - クマサン印のストリンガー
 	- 第 15 回 2022-10-02 以降
 
+[9.0.0]: https://support.nintendo.com/jp/switch/software_support/av5ja/900.html
 [8.0.0]: https://support.nintendo.com/jp/switch/software_support/av5ja/800.html
 [7.0.0]: https://support.nintendo.com/jp/switch/software_support/av5ja/700.html
 [6.0.0]: https://support.nintendo.com/jp/switch/software_support/av5ja/600.html
