@@ -14,6 +14,10 @@
 
 ---
 
+## [9.1.0] - 2024-09-12
+
+- なし
+
 ## [9.0.0] - 2024-08-30
 
 ### メインウェポン
@@ -28,6 +32,7 @@
 - イグザミナー 塗り 変更 (対戦と共通)
 - フルイドV 着弾 塗り 半径 変更 (対戦と共通)
 
+[9.1.0]: https://support.nintendo.com/jp/switch/software_support/av5ja/910.html
 [9.0.0]: https://support.nintendo.com/jp/switch/software_support/av5ja/900.html
 
 ---
