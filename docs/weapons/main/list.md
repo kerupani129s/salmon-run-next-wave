@@ -109,10 +109,10 @@
 - クマサン印のストリンガー
 	- 第 15 回 2022-10-02 以降
 
-[8.0.0]: https://www.nintendo.co.jp/support/switch/software_support/av5ja/800.html
-[7.0.0]: https://www.nintendo.co.jp/support/switch/software_support/av5ja/700.html
-[6.0.0]: https://www.nintendo.co.jp/support/switch/software_support/av5ja/600.html
-[5.0.0]: https://www.nintendo.co.jp/support/switch/software_support/av5ja/500.html
-[4.0.0]: https://www.nintendo.co.jp/support/switch/software_support/av5ja/400.html
-[3.0.0]: https://www.nintendo.co.jp/support/switch/software_support/av5ja/300.html
-[2.0.0]: https://www.nintendo.co.jp/support/switch/software_support/av5ja/200.html
+[8.0.0]: https://support.nintendo.com/jp/switch/software_support/av5ja/800.html
+[7.0.0]: https://support.nintendo.com/jp/switch/software_support/av5ja/700.html
+[6.0.0]: https://support.nintendo.com/jp/switch/software_support/av5ja/600.html
+[5.0.0]: https://support.nintendo.com/jp/switch/software_support/av5ja/500.html
+[4.0.0]: https://support.nintendo.com/jp/switch/software_support/av5ja/400.html
+[3.0.0]: https://support.nintendo.com/jp/switch/software_support/av5ja/300.html
+[2.0.0]: https://support.nintendo.com/jp/switch/software_support/av5ja/200.html
