@@ -37,7 +37,7 @@ microSD カードの規格は以下のことを確認:
 
 参考:
 
-- [microSDカードについて｜Nintendo Switch サポート情報｜Nintendo](https://www.nintendo.co.jp/support/switch/data_management/microsdcard/index.html)
+- [microSDカードについて｜Nintendo Switch サポート情報｜Nintendo](https://support.nintendo.com/jp/switch/data_management/microsdcard/index.html)
 - [SD メモリカードのロゴと規格について | SD Association](https://www.sdcard.org/ja/consumers-2/about-sd-memory-card-choices/)
 - [容量(SD/SDHC/SDXC/SDUC) | SD Association](https://www.sdcard.org/ja/developers-2/sd-standard-overview/capacity-sd-sdhc-sdxc-sduc/)
 - [バスインターフェーススピード | SD Association](https://www.sdcard.org/ja/developers-2/sd-standard-overview/bus-speed-default-speed-high-speed-uhs-sd-express/)
@@ -68,7 +68,7 @@ microSD カードを交換するときは以下のことに注意:
 - 複数の Nintendo Switch や、microSD カード交換前と交換後の Nintendo Switch のデータをまとめることは不可
 - microSD カード交換前に Nintendo Switch 本体の電源を OFF にする
 	- [【Switch】本体の電源をOFFにする方法は？](https://support-jp.nintendo.com/app/answers/detail/a_id/33801)
-- [microSDカードのデータコピー｜Nintendo Switch サポート情報｜Nintendo](https://www.nintendo.co.jp/support/switch/data_management/copy/index.html)
+- [microSDカードのデータコピー｜Nintendo Switch サポート情報｜Nintendo](https://support.nintendo.com/jp/switch/data_management/copy/index.html)
 - [【Switch】撮影した画面写真や動画を、パソコンやスマートフォン、別のNintendo Switchに移したい。](https://support-jp.nintendo.com/app/answers/detail/a_id/34865)
 
 ## データ
@@ -91,7 +91,7 @@ microSD カードを交換するときは以下のことに注意:
 
 参考:
 
-- [データの管理｜Nintendo Switch サポート情報｜Nintendo](https://www.nintendo.co.jp/support/switch/data_management/index.html)
+- [データの管理｜Nintendo Switch サポート情報｜Nintendo](https://support.nintendo.com/jp/switch/data_management/index.html)
 
 ### 保存先
 
@@ -124,9 +124,9 @@ microSD カードに保存するデータは以下のことを確認:
 - 画面写真および動画
 	- 保存先を変更可能
 	- 本体保存メモリーへコピー可能
-		- [画面写真/動画の管理｜Nintendo Switch サポート情報｜Nintendo](https://www.nintendo.co.jp/support/switch/data_management/screenshot_movie/index.html)
+		- [画面写真/動画の管理｜Nintendo Switch サポート情報｜Nintendo](https://support.nintendo.com/jp/switch/data_management/screenshot_movie/index.html)
 
 参考:
 
-- [データの管理｜Nintendo Switch サポート情報｜Nintendo](https://www.nintendo.co.jp/support/switch/data_management/index.html)
+- [データの管理｜Nintendo Switch サポート情報｜Nintendo](https://support.nintendo.com/jp/switch/data_management/index.html)
 - [【Switch】本体保存メモリーに保存されているデータを、microSDカードに移動することはできますか？](https://support-jp.nintendo.com/app/answers/detail/a_id/33844/p/8664)

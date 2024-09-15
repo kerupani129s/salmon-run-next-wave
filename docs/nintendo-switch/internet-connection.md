@@ -47,7 +47,7 @@ Nintendo Switch ドック (有機ELモデル付属) HEG-007 の特徴:
 
 - 有線 LAN 端子搭載
 - 従来の Nintendo Switch 本体 HAC-001 も使用可能
-	- [【Switch】有機ELモデルを、従来のNintendo Switchドックに差し込んで使うことはできますか？](https://support.nintendo.co.jp/app/answers/detail/a_id/37466)
+	- [【Switch】有機ELモデルを、従来のNintendo Switchドックに差し込んで使うことはできますか？](https://support-jp.nintendo.com/app/answers/detail/a_id/37466)
 - ドックのみ購入可能
 	- [Nintendo Switch ドック（有機ELモデル付属） | 任天堂パーツ販売](https://onlineshop.nintendo.co.jp/item-detail/1230069)
 	- 他通販等でもドックのみやドックセットを購入可能
@@ -56,7 +56,7 @@ Nintendo Switch ドック (有機ELモデル付属) HEG-007 の特徴:
 
 NAT タイプは以下の方法で確認:
 
-- [NATタイプの確認方法：エラーコード対処方法（Switch）](https://support.nintendo.co.jp/app/answers/detail/a_id/34269)
+- [NATタイプの確認方法：エラーコード対処方法（Switch）](https://support-jp.nintendo.com/app/answers/detail/a_id/34269)
 
 ### Nintendo Switch のローカル IP アドレスを固定する
 
@@ -72,7 +72,7 @@ NAT タイプは以下の方法で確認:
 
 Nintendo Switch の設定:
 
-- [IPアドレス手動設定方法：エラー対処方法（Switch）](https://support.nintendo.co.jp/app/answers/detail/a_id/34008)
+- [IPアドレス手動設定方法：エラー対処方法（Switch）](https://support-jp.nintendo.com/app/answers/detail/a_id/34008)
 - IP アドレス設定: 手動
 - IP アドレス: 「ローカル IP アドレス」を指定して固定
 - サブネットマスク: IP アドレス設定が「自動」のときの値をメモして同じものを設定
@@ -89,15 +89,15 @@ Nintendo Switch の設定:
 ルーターの設定:
 
 - UDP ポート番号 1024–65535 を Nintendo Switch のローカル IP アドレスに転送
-	- [【Switch】オンラインゲームをおこなうとき、ルーターのどのポートを開放すればよいですか？](https://support.nintendo.co.jp/app/answers/detail/a_id/36082)
+	- [【Switch】オンラインゲームをおこなうとき、ルーターのどのポートを開放すればよいですか？](https://support-jp.nintendo.com/app/answers/detail/a_id/36082)
 
 ### その他
 
 NAT タイプを A にできない場合は以下も参照:
 
-- [【Switch】NATタイプ：AまたはBの場合：エラーコード対処方法](https://support.nintendo.co.jp/app/answers/detail/a_id/34273)
-- [【Switch】NATタイプ：CまたはDの場合：エラーコード対処方法](https://support.nintendo.co.jp/app/answers/detail/a_id/34275)
-- [【Switch】NATタイプ：Fの場合：エラーコード対処方法](https://support.nintendo.co.jp/app/answers/detail/a_id/34277)
+- [【Switch】NATタイプ：AまたはBの場合：エラーコード対処方法](https://support-jp.nintendo.com/app/answers/detail/a_id/34273)
+- [【Switch】NATタイプ：CまたはDの場合：エラーコード対処方法](https://support-jp.nintendo.com/app/answers/detail/a_id/34275)
+- [【Switch】NATタイプ：Fの場合：エラーコード対処方法](https://support-jp.nintendo.com/app/answers/detail/a_id/34277)
 
 ## MTU について
 
