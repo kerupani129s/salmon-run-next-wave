@@ -18,6 +18,8 @@
 - Nintendo Switch
 	- [Nintendo Switch データ管理](docs/nintendo-switch/data-management.md)
 	- [Nintendo Switch インターネット接続](docs/nintendo-switch/internet-connection.md)
+- Nintendo Switch 2
+	- [Nintendo Switch 2 インターネット接続](docs/nintendo-switch-2/internet-connection.md)
 
 ## ライセンス
 
