@@ -67,8 +67,8 @@ NAT タイプは以下の方法で確認:
 ルーターの設定:
 
 - 「ローカル IP アドレス」と「MAC アドレス」を指定して DHCP 固定
-	- **有線 LAN アダプタ等を変更すると MAC アドレスも変わるため注意**
-	- [Nintendo Support: How to Find a Nintendo Switch Console's MAC Address](https://en-americas-support.nintendo.com/app/answers/detail/a_id/22397)
+	- **有線 LAN アダプタまたはドックを変更すると MAC アドレスも変わるため注意**
+	- [How to Find a MAC Address on Nintendo Switch 2 or Nintendo Switch | Nintendo Support](https://en-americas-support.nintendo.com/app/answers/detail/a_id/22397)
 
 Nintendo Switch の設定:
 
@@ -83,6 +83,7 @@ Nintendo Switch の設定:
 	- Cloudflare の場合
 		- 優先 DNS: 1.1.1.1
 		- 代替 DNS: 1.0.0.1
+		- [IP addresses · Cloudflare 1.1.1.1 docs](https://developers.cloudflare.com/1.1.1.1/ip-addresses/)
 
 ### ポートを開放する
 
@@ -107,4 +108,4 @@ Nintendo Switch における MTU の設定の初期値は 1400 です。
 
 MTU の値を変更する方法:
 
-- [Nintendo Support: How to Change/View the Settings of an Existing Internet Connection](https://en-americas-support.nintendo.com/app/answers/detail/a_id/22316)
+- [How to Change/View Existing Internet Connection Settings on Nintendo Switch 2 or Nintendo Switch | Nintendo Support](https://en-americas-support.nintendo.com/app/answers/detail/a_id/22316)
