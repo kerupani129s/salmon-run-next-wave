@@ -24,6 +24,20 @@ LAN ケーブルは以下のことを確認:
 - **RJ-45 8P8C を用いた Cat.7 は正式でないため非推奨**
 - Cat.8.1 は不要
 
+### 有線 LAN アダプタを使用する場合
+
+**(要確認)** Nintendo Switch 2 の 最大通信速度は 1Gbps ？
+
+市販の有線 LAN アダプタを使用する場合は以下のことを確認:
+
+- 1000BASE-T IEEE802.3ab 対応
+	- 最大通信速度: 1Gbps
+- Nintendo Switch 対応
+
+ただし Nintendo Switch 2 ドックの USB は USB 2.0 のため、理論上 480Mbps が最大速度。
+
+**(要確認)** Nintendo Switch 2 本体の USB に直接接続した場合は USB 2.0 として動作する？
+
 ## IPv6 接続を有効にする
 
 Nintendo Switch 2 の設定:
@@ -45,7 +59,7 @@ NAT タイプは以下の方法で確認:
 ルーターの設定:
 
 - 「ローカル IPv4 アドレス」と「MAC アドレス」を指定して DHCP 固定
-	- **ドックを変更すると MAC アドレスも変わるため注意**
+	- **ドックまたは有線 LAN アダプタを変更すると MAC アドレスも変わるため注意**
 	- [How to Find a MAC Address on Nintendo Switch 2 or Nintendo Switch | Nintendo Support](https://en-americas-support.nintendo.com/app/answers/detail/a_id/22397)
 
 Nintendo Switch 2 の設定:
