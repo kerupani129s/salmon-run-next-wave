@@ -14,6 +14,10 @@
 
 ---
 
+## [10.0.1] - 2025-06-27
+
+- なし
+
 ## [10.0.0] - 2025-06-12
 
 ### メインウェポン
@@ -24,6 +28,7 @@
 
 - **(要確認)** ホップソナー 体力 400 から 480 へ変更 (対戦と共通)
 
+[10.0.1]: https://support.nintendo.com/jp/switch/software_support/av5ja/1001.html
 [10.0.0]: https://support.nintendo.com/jp/switch/software_support/av5ja/1000.html
 
 ---
