@@ -21,6 +21,11 @@
 - Nintendo Switch 2
 	- [Nintendo Switch 2 インターネット接続](docs/nintendo-switch-2/internet-connection.md)
 
+## 簡易版
+
+- [サーモンラン NEXT WAVE メインウェポン DPS 一覧 簡易版](docs/weapons/main/dps-list.txt)
+- [サーモンラン NEXT WAVE メインウェポン ダメージ 一覧 簡易版](docs/weapons/main/damage-list.txt)
+
 ## ライセンス
 
 [MIT License](LICENSE)
