@@ -8,9 +8,9 @@ cat docs/weapons/main/dps-list.md \
 	| sed --sandbox -E '/バージョン [0-9.]+ 以降/ d' \
 	| sed --sandbox -E 's/\*\*//g' \
 	| sed --sandbox -E '/DPS.*= / { /= [0-9.]+$/ ! d; s/DPS.*= // }' \
-	| sed --sandbox -E '/^\t-/ { h; N; /\n\t\t-/ ! P; D }; /^\t\t-/ { G; s/^\t\t-(.*)\n(\t-.*)$/\2\1/ }' \
+	| sed --sandbox -E '/^\t-/ { h; $ ! N; /\n\t\t-/ ! P; D }; /^\t\t-/ { G; s/^\t\t-(.*)\n(\t-.*)$/\2\1/ }' \
 	| sed --sandbox -E 's/2 周未満チャージ (1 周チャージ)/\1/' \
-	| sed --sandbox -E $'/^-/ i\n' \
+	| sed --sandbox -E $'/^-/ i\\\n' \
 	| sed --sandbox -E 's/^- /・/; s/^\t- //' \
 	> docs/weapons/main/dps-list.txt
 
@@ -26,7 +26,7 @@ cat docs/weapons/main/damage-list.md \
 		-e '/ダメージ = [0-9]+ × [0-9]+ =/ s/ダメージ = //' \
 		-e 's/ダメージ < ([0-9]+)/\1 未満/' \
 		-e 's/ダメージ.*= //' \
-	| sed --sandbox -E '/^\t-/ { h; N; /\n\t\t-/ ! P; D }; /^\t\t-/ { G; s/^\t\t-(.*)\n(\t-.*)$/\2\1/ }' \
-	| sed --sandbox -E $'/^-/ i\n' \
+	| sed --sandbox -E '/^\t-/ { h; $ ! N; /\n\t\t-/ ! P; D }; /^\t\t-/ { G; s/^\t\t-(.*)\n(\t-.*)$/\2\1/ }' \
+	| sed --sandbox -E $'/^-/ i\\\n' \
 	| sed --sandbox -E 's/^- /・/; s/^\t- //' \
 	> docs/weapons/main/damage-list.txt
