@@ -149,7 +149,7 @@
 	- 爆風 塗り 半径 変更 (対戦と共通)
 - R-PEN/5H 塗り 幅 変更 (対戦と共通)
 - イグザミナー 塗り 変更 (対戦と共通)
-- フルイドV 着弾 塗り 半径 変更 (対戦と共通)
+- フルイドV 弾 塗り 変更 (対戦と共通)
 
 [9.3.0]: https://support.nintendo.com/jp/switch/software_support/av5ja/930.html
 [9.2.0]: https://support.nintendo.com/jp/switch/software_support/av5ja/920.html
