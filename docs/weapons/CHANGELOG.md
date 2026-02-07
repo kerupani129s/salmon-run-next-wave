@@ -14,6 +14,10 @@
 
 ---
 
+## [11.0.1] - 2026-02-05
+
+- なし
+
 ## [11.0.0] - 2026-01-29
 
 ### メインウェポン
@@ -37,6 +41,7 @@
 	- 表示 半径 変更 (対戦と共通)
 	- 中心位置 変更 (対戦と共通)
 
+[11.0.1]: https://support.nintendo.com/jp/switch/software_support/av5ja/1101.html
 [11.0.0]: https://support.nintendo.com/jp/switch/software_support/av5ja/1100.html
 
 ---
