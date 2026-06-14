@@ -14,6 +14,18 @@
 
 ---
 
+## [11.2.0] - 2026-06-11
+
+### メインウェポン
+
+- N-ZAP85 塗り 変更 (対戦と共通)
+- L3リールガン 弾速および射程 変更 (対戦と共通)
+- ノヴァブラスター ジャンプ中 ブレ 変更 (対戦と共通)
+- クラッシュブラスター ジャンプ中 ブレ 変更 (対戦と共通)
+- ホットブラスター 後隙 21F から 22F へ変更 (対戦と共通)
+- Rブラスターエリート インクロック時間 50F から 60F へ変更 (対戦と共通)
+- バレルスピナー 塗り 変更 (対戦と共通)
+
 ## [11.1.0] - 2026-03-19
 
 ### メインウェポン
@@ -62,6 +74,7 @@
 	- 表示 半径 変更 (対戦と共通)
 	- 中心位置 変更 (対戦と共通)
 
+[11.2.0]: https://support.nintendo.com/jp/switch/software_support/av5ja/1120.html
 [11.1.0]: https://support.nintendo.com/jp/switch/software_support/av5ja/1110.html
 [11.0.1]: https://support.nintendo.com/jp/switch/software_support/av5ja/1101.html
 [11.0.0]: https://support.nintendo.com/jp/switch/software_support/av5ja/1100.html
