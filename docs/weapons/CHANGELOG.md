@@ -14,6 +14,24 @@
 
 ---
 
+## [11.3.0] - 2026-08-20
+
+### メインウェポン
+
+- カーボンローラー
+	- 縦振り ダメージ減衰 変更 (対戦と共通)
+	- 塗り進み 移動速度 変更 (対戦と共通)
+- ケルビン525 スライド後 ブレ 変更 (対戦と共通)
+- .52ガロン 塗り 変更 (対戦と共通)
+- トライストリンガー 塗り 変更 (対戦と共通)
+
+### スペシャルウェポン
+
+- ウルトラチャクチ
+	- 前隙 60F から 50F へ変更 (対戦と共通)
+	- 遠爆風 ダメージ 半径 変更 (対戦と共通)
+	- 拳 距離 変更 (対戦と共通)
+
 ## [11.2.0] - 2026-06-11
 
 ### メインウェポン
@@ -74,6 +92,7 @@
 	- 表示 半径 変更 (対戦と共通)
 	- 中心位置 変更 (対戦と共通)
 
+[11.3.0]: https://support.nintendo.com/jp/switch/software_support/av5ja/1130.html
 [11.2.0]: https://support.nintendo.com/jp/switch/software_support/av5ja/1120.html
 [11.1.0]: https://support.nintendo.com/jp/switch/software_support/av5ja/1110.html
 [11.0.1]: https://support.nintendo.com/jp/switch/software_support/av5ja/1101.html
