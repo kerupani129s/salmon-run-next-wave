@@ -2,11 +2,14 @@
 
 注意:
 
-- バージョン 11.3.0 の内容です。
+- バージョン 12.0.0 の内容です。
 - メインウェポンの総数 71 つ。
 - ブキの変更履歴は「[サーモンラン NEXT WAVE ブキ Changelog](../CHANGELOG.md)」を参照。
 - メインウェポンの DPS の値は「[サーモンラン NEXT WAVE メインウェポン DPS 一覧](dps-list.md)」を参照。
 - メインウェポンのダメージの値は「[サーモンラン NEXT WAVE メインウェポン ダメージ 一覧](damage-list.md)」を参照。
+## [12.0.0] - 2026-11-18
+
+- なし
 
 ## [11.0.0] - 2026-01-29
 
@@ -121,6 +124,7 @@
 - クマサン印のストリンガー
 	- 第 15 回 2022-10-02 以降
 
+[12.0.0]: https://support.nintendo.com/jp/switch/software_support/av5ja/1200.html
 [11.0.0]: https://support.nintendo.com/jp/switch/software_support/av5ja/1100.html
 [10.0.0]: https://support.nintendo.com/jp/switch/software_support/av5ja/1000.html
 [9.0.0]: https://support.nintendo.com/jp/switch/software_support/av5ja/900.html
