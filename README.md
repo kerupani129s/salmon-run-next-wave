@@ -26,6 +26,13 @@
 - [サーモンラン NEXT WAVE メインウェポン DPS 一覧 簡易版](docs/weapons/main/dps-list.txt)
 - [サーモンラン NEXT WAVE メインウェポン ダメージ 一覧 簡易版](docs/weapons/main/damage-list.txt)
 
+## 参考
+
+- [スプラトゥーン3 更新データ｜Nintendo Switch サポート情報｜任天堂サポート](https://support.nintendo.com/jp/switch/software_support/av5ja/index.html)
+- [Splatoon3 - スプラトゥーン3 攻略＆検証 Wiki\*](https://wikiwiki.jp/splatoon3mix/)
+- [ホワイトクマサン≪サモラン初心者研修≫ - YouTube](https://www.youtube.com/@sirokuma_salmon)
+- [まくがふ（ゲーム実況） - YouTube](https://www.youtube.com/@McGuffinGame)
+
 ## ライセンス
 
 [MIT License](LICENSE)
